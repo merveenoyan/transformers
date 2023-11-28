@@ -296,13 +296,13 @@ docs/source/en/tasks/document_question_answering.md
 docs/source/en/tasks/idefics.md  # causes other tests to fail
 docs/source/en/tasks/image_captioning.md
 docs/source/en/tasks/image_classification.md
+docs/source/en/tasks/image_segmentation.md
 docs/source/en/tasks/language_modeling.md
 docs/source/en/tasks/masked_language_modeling.md
 docs/source/en/tasks/monocular_depth_estimation.md
 docs/source/en/tasks/multiple_choice.md
 docs/source/en/tasks/object_detection.md
 docs/source/en/tasks/question_answering.md
-docs/source/en/tasks/semantic_segmentation.md
 docs/source/en/tasks/sequence_classification.md
 docs/source/en/tasks/summarization.md
 docs/source/en/tasks/text-to-speech.md
